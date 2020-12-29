@@ -11,7 +11,6 @@ void setup() {
 
   pixels.Begin();
   pixels.Show();
-  // put your setup code here, to run once:
 }
 
 static void updateLEDs(uint8_t v1, uint8_t v2, uint8_t v3) {
